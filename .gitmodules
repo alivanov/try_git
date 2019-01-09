@@ -1,0 +1,3 @@
+[submodule "heroes_client"]
+	path = heroes_client
+	url = https://github.com/alivanov/heroes_client.git
